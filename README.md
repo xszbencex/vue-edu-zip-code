@@ -15,6 +15,16 @@ Bővebb információ itt: https://hur.webmania.cc/
 A következő kis package hasznos lesz a HTTP kérések indításában:
 - [Axios](https://axios-http.com/docs/intro)
 
+Fontos lehet a Vue dokumentáció ezen része:
+- [Event handling](https://vuejs.org/guide/essentials/event-handling.html)
+
+Célszerű használni az input mező változás eseményéhez debounce-t, hogy késleltetve hívjon be a végpontra:
+- [Vue Use](https://vueuse.org/)
+- [Vue Use - Debounce](https://vueuse.org/shared/useDebounceFn/)
+
+Az alkalmazás működő verzióban megtalálható ezen az URL-en:
+https://vue-edu-zip-code-solution.vercel.app/
+
 A projekt elő van készítve.
 Először ```npm install``` majd ```npm run dev``` és már megy is!
 
