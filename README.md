@@ -8,7 +8,7 @@ Pl.: 3300 -> Eger
 
 A következő végpontot célszerű használni:
 
-```GET https://hur.webmania.cc/zips/3300.json```
+```GET https://testa.free.beeceptor.com/zips/3000.json```
 
 Bővebb információ itt: https://hur.webmania.cc/
 
